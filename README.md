@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chelebela/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Chelebela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chelebela/) |
+| **Get License** | [License this song: Chelebela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chelebela/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7cf7dce4d2aec257df1aabf7e3174c1810aaa6e39aaf83ea98f77ddadac28493` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
